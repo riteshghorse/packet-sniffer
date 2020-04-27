@@ -1,8 +1,9 @@
-IP,809
-TCP,705
-UDP,104
-DNS,88
-ICMP,0
-HTTP,0
-HTTPS,100
-QUIC,16
+protocol,count
+ip,157
+tcp,113
+udp,44
+DNS,16
+icmp,61
+http,0
+https,100
+quic,0
